@@ -11,4 +11,5 @@ See more info about the bug here: http://stackoverflow.com/questions/17035699/py
 
 ## Demo 
 
-TODO: Add a photo here.
+![Demo](./demo.JPG)
+
