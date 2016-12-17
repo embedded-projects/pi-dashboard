@@ -9,6 +9,12 @@ Almost all of the code was taken from [jacotronix's PiTFT Weather Station Github
 
 See more info about the bug here: http://stackoverflow.com/questions/17035699/pygame-requires-keyboard-interrupt-to-init-display
 
+## How to run 
+
+```sh
+$ sudo ./main.py & # need to be root, and run in background mode.
+```
+
 ## Demo 
 
 ![Demo](./demo.JPG)
